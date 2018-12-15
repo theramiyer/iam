@@ -1,6 +1,6 @@
 * {
   @include box-sizing;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 html,
@@ -12,16 +12,25 @@ body {
 
 html {
   font-family: $serif-primary;
-  font-size: 14px;
+  font-size: 1.2rem;
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: 1.3rem;
   }
 }
 
 body {
   -webkit-text-size-adjust: 100%;
+
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+}
+
+body p {
+  font-size: 1.3em;
 }
 
 h1,
