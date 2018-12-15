@@ -90,3 +90,17 @@ footer {
     font-size: .8rem;
   }
 }
+
+.share-bar {
+  text-align: center;
+}
+
+.share-bar a {
+  margin: 0 0.15em;
+  color: $default-color;
+  font-size: 1.2em;
+}
+
+.share-bar a:hover {
+  color: $accent-color;
+}
