@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          I am …
+description:    "… the voice of you, and those around you"
+url:            "https://iam.ramiyer.me"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ram Iyer
+  url:          https://ramiyer.me
+  email:
 
 # Build settings
 markdown:       kramdown
@@ -31,5 +30,5 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:year:month:day/:title/
 paginate:       5
