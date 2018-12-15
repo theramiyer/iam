@@ -49,4 +49,6 @@ And the worst part is, I have probably not even gotten started on the picture of
 
 You have hope. Act while you still can.
 
+---
+
 Thanks to [this TEDx Talk by Brian Toon](https://www.youtube.com/watch?v=M7hOpT0lPGI) for the inspiration, and to HowStuffWorks for information on the [theories involving nuclear winter](https://science.howstuffworks.com/nuclear-winter.htm).
