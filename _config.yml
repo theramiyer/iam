@@ -3,6 +3,8 @@ title:          I am …
 description:    "… the voice of you, and those around you"
 url:            "https://iam.ramiyer.me"
 
+future: false
+
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
