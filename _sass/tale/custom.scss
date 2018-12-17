@@ -1,3 +1,14 @@
+p a, footer a, .post-list a {
+  color: $default-color;
+  outline: none;
+  text-decoration: none !important;
+  transition: all .2s ease-out;
+  background: linear-gradient($accent-color, $accent-color);
+  background-size: 100% .2em;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+}
+
 #results-container a {
   color: $default-color;
   text-decoration: none;
