@@ -49,7 +49,9 @@ frontMatter: """
 layout: "{layout}"
 title: "{title}"
 date: "{date}"
-tags: 
+tags:
+  -
+published: false
 ---
 """
 
